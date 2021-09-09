@@ -39,7 +39,7 @@ The target is:
 'quality'
 
 
-3: Define the architecture of the model
+### 3: Define the architecture of the model
 
 Model:
 The model that has been chosen is a regression. A Sequential algorithm has been selected as model constructor. Sequential models require that each layer has weights or connections only to the one layer coming directly after it in the network diagram.
@@ -52,7 +52,14 @@ The last layer has only one node. That is the output layer where we ended with a
 In this step, we add an optimizer 'adam' to control the learning rate, which means how quickly the model finds good weights.
 We also add a loss function
 
-4: Fit the model
+### 4: Fit the model
 
-5: Use your model to make predictions
+When we train the model we have an accuracy of 76% 
 
+### 5: Use your model to make predictions
+
+The accuracy on the test_set is 81%
+
+## Graphs to vizualize the training loss and the training accuracy 
+
+![image](https://user-images.githubusercontent.com/84380205/132689245-bbbd28b7-4462-48c4-b2f2-3d864967c65a.png)
