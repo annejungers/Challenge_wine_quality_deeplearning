@@ -64,5 +64,10 @@ bGraphs to vizualize the training loss and the training accuracy
 
 ![image](https://user-images.githubusercontent.com/84380205/132689245-bbbd28b7-4462-48c4-b2f2-3d864967c65a.png)
 
+### 6: Confusion matrix
+
+To compare our results with the predictions we use a confusion matrix
+
+![image](https://user-images.githubusercontent.com/84380205/132694072-b80cf233-1644-438c-bedd-8d140244a7f3.png)
 
 
