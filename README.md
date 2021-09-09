@@ -60,7 +60,7 @@ When we train the model we have an accuracy of 76%
 
 The accuracy on the test_set is 81%
 
-## Graphs to vizualize the training loss and the training accuracy 
+bGraphs to vizualize the training loss and the training accuracy 
 
 ![image](https://user-images.githubusercontent.com/84380205/132689245-bbbd28b7-4462-48c4-b2f2-3d864967c65a.png)
 
