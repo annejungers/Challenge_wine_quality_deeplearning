@@ -16,9 +16,10 @@ Tune parameters of a neural network
 
 ## steps
 
-### 1: Sefine a treshold between what is a good wine and a bad wine 
+### 1: Define a treshold between what is a good wine and a bad wine 
 
 good_wine = [7,8,9]
+
 bad_wine = [3,4,5,6]
 
 df.quality = df.quality.replace(to_replace=good_wine, value=1)
