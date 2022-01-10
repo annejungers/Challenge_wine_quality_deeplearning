@@ -9,7 +9,7 @@ Tune parameters of a neural network
 
 ## 4 steps to build a model in Keras
 
-+ 1: Architecture = how many layers do you want? How many nodes in each layer? What activation function do you want to use in each layer?
++ 1: Architecture = how many layers do you want? How many nodes in each layer? Which activation function do you want to use in each layer?
 + 2: Compile the model = specify the loss function, details about “how optimisation works
 + 3: Fit the model = cycle of back-propagation and optimization of model weights with your data
 + 4: Use your model to make predictions
